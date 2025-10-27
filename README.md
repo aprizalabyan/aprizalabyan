@@ -1,9 +1,9 @@
 ### Hi I'm Aprizal 👋
-_Front-end Web Programmer_
+_Frontend Engineer | Fullstack Enthusisast_
 
-I am a front-end web programmer enthusiast, currently work with<br>
-Vue and React. I am also learning for back-end API service using<br>
-Python and Express with MongoDB
+I am a frontend developer, currently work with<br>
+Vue and React. Lately, I’ve also been exploring backend<br>
+to become a more well-rounded developer.
 
 
 <!--
