@@ -1,38 +1,37 @@
-### Hi I'm Aprizal 👋
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8272/blob-cool.gif?1643514812" width="26" /> Hi I'm Aprizal
+
+<div>
+  <img align="right" width="320" src="https://github.com/user-attachments/assets/2de4eb4e-3bda-438c-ac68-48e180e6f783" alt="spline-robot" />
+</div>
+
 _Frontend Engineer | Fullstack Enthusisast_
 
+<p align="left">
 I am a frontend developer, currently work with<br>
 Vue and React. Lately, I’ve also been exploring backend<br>
 to become a more well-rounded developer.
+</p>
 
+### Tech Stack
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="28" alt="html-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="28" alt="css-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28" alt="js-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="28" alt="ts-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="28" alt="vue-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" height="28" alt="nuxt-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" alt="react-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="28" alt="next-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="tailwind-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" alt="py-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="28" alt="mongo-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="28" alt="pg-logo" />
+</div>
 
-<!--
-### Tools I use
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aprizalabyan/aprizalabyan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aprizalabyan/aprizalabyan/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aprizalabyan/aprizalabyan/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
-
-[![Top Langs](https://github-readme-stats-gray-phi-90.vercel.app/api/top-langs/?username=aprizalabyan&layout=compact&langs_count=10&exclude_repo=Pahlawan_Boro_Mobile,PemrogramanMobilePertemuan5&hide=mathematica)](https://github.com/aprizalabyan)
-    
-<!--
-[![First Repo](https://github-readme-stats-gray-phi-90.vercel.app/api/pin/?username=aprizalabyan&repo=contact-list)](https://github.com/aprizalabyan)
-[![First Repo](https://github-readme-stats-gray-phi-90.vercel.app/api/pin/?username=aprizalabyan&repo=contact-list)](https://github.com/aprizalabyan)
-
-
-| | <a href="https://github.com/aprizalabyan"><img height=300 align="center" src="https://github-readme-stats-gray-phi-90.vercel.app/api/top-langs/?username=aprizalabyan&layout=compact&langs_count=10&exclude_repo=Pahlawan_Boro_Mobile,PemrogramanMobilePertemuan5&hide=mathematica" /></a> | <div><a href="https://github.com/aprizalabyan/contact-list"><img width="340" align="left" src="https://github-readme-stats-gray-phi-90.vercel.app/api/pin/?username=aprizalabyan&repo=contact-list" /></a>  <a href="https://github.com/aprizalabyan/login-admin-page"><img width="340" align="left" src="https://github-readme-stats-gray-phi-90.vercel.app/api/pin/?username=aprizalabyan&repo=login-admin-page" /></a></div> |
-| --- | --- | --- |
-
-
-**aprizalabyan/aprizalabyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
